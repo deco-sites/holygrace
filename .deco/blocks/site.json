@@ -4,11 +4,11 @@
     "title": "Landing",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx",
-    "titleTemplate": "Landing | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/f5603dbc-ee36-4864-aaf3-ea52b257d5b2",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/9c94b074-ae4d-4b63-a20b-7d48ce69971a"
+    "titleTemplate": "Holy Grace",
+    "descriptionTemplate": "%s",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/61c79df4-4af8-404c-bf59-6feaf1e99ee6",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/6d176f6e-cfe4-4d9f-ad63-b0296fcb1105",
+    "description": "Bom dia no whatsapp"
   },
   "global": [
     {

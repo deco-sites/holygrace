@@ -9,12 +9,12 @@
         "buttons": []
       },
       "logo": {
-        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/61c79df4-4af8-404c-bf59-6feaf1e99ee6"
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/396f3ea6-41b5-4544-9ffb-b50ce6c16f46"
       }
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<h1 style=\"text-align: start\"><strong><span>Inicie seu dia com Orientação Espiritual</span></strong></h1>",
+      "title": "<h1 style=\"text-align: start\"><strong>Inicie seu dia com lindas imagens no Whatsapp</strong></h1>",
       "cta": [
         {
           "href": "https://wa.me/+551150264804?text=Imagem+de+bom+dia",
@@ -29,14 +29,27 @@
       "__resolveType": "site/sections/Logos.tsx",
       "logos": [
         {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/9305e7c6-7f63-4bb3-ba58-410e55cbaaff"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/8a8c171d-1553-4c77-a10a-8993bec82208"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/d8d5a9bb-87c4-468b-a0f7-deb689fd10db"
+        },
+        {
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/4482af72-9725-4b2d-8cc0-55ca08b47f8c"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/f6ca90aa-bbf7-4b7a-ac9c-20f3b4245698"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/f90b7938-ac1d-4233-8b1d-78a4895cc11b"
         },
         {
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/431a0215-ba51-4590-97a2-0755bdf1584f"
         },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/d8d5a9bb-87c4-468b-a0f7-deb689fd10db"
-        }
+        {}
       ]
     },
     {
@@ -45,9 +58,6 @@
       "title": "Nutra sua alma com conteúdo positivo",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/daba8e7e-0e53-4a11-b0a7-1df39f1e7296",
       "description": "Nosso conteúdo é cuidadosamente selecionado para oferecer mensagens positivas e inspiradoras. Comece o seu dia com uma nota positiva e nutra a sua alma com a nossa orientação diária."
-    },
-    {
-      "__resolveType": "site/sections/BlogPosts.tsx"
     },
     {
       "__resolveType": "site/sections/Testimonials.tsx",
@@ -72,12 +82,6 @@
       "arrows": true,
       "dots": true,
       "interval": 2
-    },
-    {
-      "__resolveType": "site/sections/Faq.tsx"
-    },
-    {
-      "__resolveType": "Footer"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
