@@ -23,24 +23,23 @@ export default function Logos({
   logos = IMG_PLACEHODLER,
 }: Props) {
   const slideContent = (
-    <div class="flex items-center gap-20">
+    <div class="flex items-center gap-20" style="witdth:256px ;height:256px">
       {logos?.map((logo) => {
         return (
           <Image
             src={logo.src || ""}
             alt={logo.altText || ""}
-            width={110}
-            height={25}
+            width={256}
+            height={256}
           />
         );
       })}
     </div>
   );
   return (
-    <div class="lg:container md:max-w-6xl lg:mx-auto mx-4 py-6 lg:py-14">
-      <div class="flex flex-col gap-12">
-        <p class="text-center text-lg">{title}</p>
-        <div class="relative w-full overflow-hidden h-11">
+    <div class="lg:container md:max-w-6xl lg:mx-auto mx-4 py-6 lg:py-14" style="witdth:256px ;height:256px">
+      <div class="flex flex-col gap-12" style="witdth:256px ;height:256px">
+        <div class="relative w-full overflow-hidden h-11" style="witdth:256px ;height:256px">
           <div class="animate-sliding absolute top-0 left-0 flex flex-nowrap h-11">
             {slideContent}
           </div>

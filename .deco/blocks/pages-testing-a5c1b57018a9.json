@@ -3,29 +3,75 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
+      "__resolveType": "site/sections/Header.tsx",
+      "navigation": {
+        "links": [],
+        "buttons": []
+      },
+      "logo": {
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/61c79df4-4af8-404c-bf59-6feaf1e99ee6"
+      }
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
-      "cta": [],
-      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
+      "title": "<h1 style=\"text-align: start\"><strong><span>Inicie seu dia com Orientação Espiritual</span></strong></h1>",
+      "cta": [
+        {
+          "href": "https://wa.me/+551150264804?text=Imagem+de+bom+dia",
+          "outline": true,
+          "text": "Mande mensagem agora!",
+          "id": "mande_msg_agora"
+        }
+      ],
+      "description": "Receba e compartilhe conteúdo personalizado diaramente entregue instantaneamente no Whatsapp. Alimente sua alma e encontre paz interior com nosso conteúdo inspirador! "
     },
     {
-      "__resolveType": "site/sections/Logos.tsx"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+      "__resolveType": "site/sections/Logos.tsx",
+      "logos": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/4482af72-9725-4b2d-8cc0-55ca08b47f8c"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/431a0215-ba51-4590-97a2-0755bdf1584f"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/d8d5a9bb-87c4-468b-a0f7-deb689fd10db"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right"
+      "placement": "left",
+      "title": "Nutra sua alma com conteúdo positivo",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/daba8e7e-0e53-4a11-b0a7-1df39f1e7296",
+      "description": "Nosso conteúdo é cuidadosamente selecionado para oferecer mensagens positivas e inspiradoras. Comece o seu dia com uma nota positiva e nutra a sua alma com a nossa orientação diária."
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx"
     },
     {
-      "__resolveType": "site/sections/Testimonials.tsx"
+      "__resolveType": "site/sections/Testimonials.tsx",
+      "title": "Junte-se à nossa comunidade",
+      "slides": [
+        {
+          "content": {
+            "description": "\"Eu estava procurando por uma fonte de orientação espiritual diária, receber no Whatsapp é exatamente o que eu precisava. Ele me ajudou a encontrar paz interior e compartilhar ela com minha familia e amigos\"",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/b362bb41-f87b-492b-9c00-8c0b3d8f39cb",
+            "alt": "Ricardo Manoel de Souza",
+            "name": "Ricardo Manoel de Souza"
+          }
+        },
+        {
+          "content": {
+            "description": "Transformou minhas manhãs. Adoro começar o meu dia com as imagens lindas e inspiradoras",
+            "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10993/b4003afb-4c96-4677-8604-65842dee8e61",
+            "name": "Mariana Carvalho"
+          }
+        }
+      ],
+      "arrows": true,
+      "dots": true,
+      "interval": 2
     },
     {
       "__resolveType": "site/sections/Faq.tsx"
